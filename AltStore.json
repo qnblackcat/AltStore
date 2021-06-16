@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Qn_",
+      "downloadURL": "https://dl.dropboxusercontent.com/s/amg6t3yulaw5lqa/Better%20Cercube%2016.20.5%20%285.2.23%29%20%26%20iSponsorBlock%201.0-10%20%26%20YTDisableSuggestions%20%26%20YTClassicVideoQuality%20%26%20YTUHD%20%26%20YouPiP%201.1.0%20-%20Qn_.ipa?dl=0",
+      "iconURL": "https://dl.dropboxusercontent.com/s/os6gdtuhv4m4w2c/youtube-512.png?dl=0",
+      "localizedDescription": "Sideloaded version of Cercube but better?",
+      "name": "Better Cercube",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 111877684,
+      "subtitle": "Cercube",
+      "tintColor": "45b6fe",
+      "version": "16.20.5 (5.2.23)",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Latest version"
+    }
+  ],
+  "identifier": "com.qn.source",
+  "name": "Qn_'s AltStore Repo",
+  "news": [],
+  "userInfo": {}
+}
