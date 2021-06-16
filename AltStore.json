@@ -13,15 +13,15 @@
         "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
         "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
       ],
-      "size": 111877684,
+      "size": 12184754,
       "subtitle": "Cercube",
-      "tintColor": "45b6fe",
+      "tintColor": "018083",
       "version": "16.20.5 (5.2.23)",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "Latest version"
     }
   ],
-  "identifier": "com.qn.source",
+  "identifier": "com.example.source",
   "name": "Qn_'s AltStore Repo",
   "news": [],
   "userInfo": {}
