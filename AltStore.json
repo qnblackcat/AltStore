@@ -9,10 +9,12 @@
       "localizedDescription": "Credits: KEEP THE CREDITS IF YOU WANT TO RE-UP MY IPA! \n- Alfhaily for Cercube.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YTUHD, YTClassicVideoQuality, YTSystemAppearence, YouAreThere and YouPiP.\n- level3tjg for YTNoHoverCards.\n- Al4ise for Azule - a tool used to make this IPA! \n- u/el_zari, the best tester I ever worked with. Plus many, many other testers. \n\nFeatures:\n- Cercube no ads: make sure you log in to Cercube using a verified account.\n- SponsorBlock: skip sponsor ads inside videos.\n- YTUHD: unlock VP9 codec, which also enables 1440 & 2140p quality.\n- YTClassicVideoQuality: brings back the original video quality selector.\n- YouAreThere: Disable popup that shows up when you play a long video. \n- YouPiP: Enable native PiP in YouTube app. \n- YTNoHoverCards: allows creator End screens (thumbnails) to appear at the end of videos. \n- YTNoShorts: remove Shorts in Home tab. You still can watch Shorts in the Shorts tab, or search for shorts in the search bar. \n\nKnown issues:\n- Cercube logo & YouTube logo may not appear in the top bar. \n- YouPiP: due to Apple's fault, speed-up bug still happens sometimes. (Workaround: use Legacy PiP, not recommend unless you're facing the speed-up bug). \n- iSponsorBlock: segments color doesn't show up in the seek bar. Workaround: downgrade to v16.20.5.\n- YTUHD may not work for some reasons. \n- Does not work on iOS 12 and below.",
       "name": "Better Cercube",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_6597.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_6600.JPEG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_6600.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/168735133_1650028625199137_4331919119469924503_n.jpg"
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1490.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1492.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1493.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1494.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1491.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1496.PNG",
       ],
       "size": 111886527,
       "subtitle": "Better Cercube",
