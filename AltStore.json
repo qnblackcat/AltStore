@@ -3,40 +3,44 @@
     {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+      "developerName": "Qn_",
+      "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v16.42.3-5.3.3/CercubePlus._16.42.3-5.3.3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
+      "localizedDescription": "Full infomation about CercubePlus (Cercube+) is available on my Github: https://github.com/qnblackcat/CercubePlus/\n\n Credits: Please keep the Credits if you re-up uYouPlus! \n- Alfhaily for Cercube.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, YTUHD and YouPiP.\n- level3tjg for YTNoHoverCards.\n\n Known issues:\n- Hide Cast button is not working.\n- iSponsorBlock: the modified time doesn't show up in the seek bar.\n- YTUHD: Stuttering on 4K videos (sometimes).\n- YouPiP (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the speedup-bug as described here. The bug also happens when you try to play multi-sources of sound at the same time. Enable Legacy PiP is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk.",
       "name": "CercubePlus (Cercube+)",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1521.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG"
       ],
-      "size": 2184795,
+      "size": 101187584,
       "subtitle": "A modified version of Cercube",
-      "tintColor": "018084",
-      "version": "1.3b2",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+      "tintColor": "1b9d44",
+      "version": "16.42.3 (5.3.3)",
+      "versionDate": "2021-10-T31:00:00-07:00",
+      "versionDescription": "The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases\n "
     },
     {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Qn_",
       "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v16.43.2-2.1/uYouPlus_16.42.3_2.1.ipa",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
       "localizedDescription": "Full infomation about uYou+ is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\n Credits: Please keep the Credits if you re-up uYouPlus! \n- MiRO92 for uYou.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, YTUHD and YouPiP.\n- level3tjg for YTNoHoverCards.\n\n Known issues:\n- uYou: all known-issues of uYou are listed here: https://github.com/MiRO92/uYou-for-YouTube/issues. Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!\n- iSponsorBlock: the modified time doesn't show up in the seek bar.\n- YTUHD: Stuttering on 4K videos (sometimes).\n- YouPiP (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the speedup-bug as described here. The bug also happens when you try to play multi-sources of sound at the same time. Enable Legacy PiP is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk.",
       "name": "uYouPlus (uYou+)",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/52943116/135612614-3d3138cb-2a3d-4ed1-9244-905bab8f5c9f.PNG"
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG"
       ],
       "size": 111886527,
       "subtitle": "uYouPlus",
       "tintColor": "4179b5",
       "version": "16.42.3 (2.1)",
       "versionDate": "2021-06-08T14:00:00-07:00",
-      "versionDescription": "The changelog can be found at https://github.com/qnblackcat/uYouPlus/releases"
+      "versionDescription": "The changelog can be found at\n https://github.com/qnblackcat/uYouPlus/releases"
     }
   ],
   "identifier": "com.qn.altstorerepo",
