@@ -2,6 +2,28 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Qn_",
+      "downloadURL": "https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/download/v8.89-2.7/BHTwitterPlus_8.89-2.7.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png",
+      "localizedDescription": "Full infomation about BHTwitterPlus (BHTwitter+) is available on my Github: https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/\n\nCredits: \n- BandarHL - for BHTwitter and his solution for Twitter-login (Sideload).\n- haoict - developer of Twitter No Ads.\n- Tanner B - solution for Skip Analytics URL (t.co).\n- Abdullah - developer of TwitterAutoHighQuality.\n\nKwown issues:\n- \"Skip Analytic URL\" breaks embed pictures as described here.\n- Analytics link in cards can't be skipped.\n- Download videos may not work if you use appdb. In that case, please change the \"Identity type to use for appdb PRO\" in the \"appdb configuration\" from Auto to Development.\n",
+      "name": "BHTwitterPlus (BHTwitter+)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2396.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2397.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2399.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2400.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2401.jpg"
+      ],
+      "size": 78643200,
+      "subtitle": "The sideloaded version of BHTwitter, made by @BandarHL",
+      "tintColor": "81c4c9",
+      "version": "8.89 (2.7)",
+      "versionDate": "2021-010-07T14:00:00-07:00",
+      "versionDescription": "The changelog can be found at\nhttps://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Qn_",
       "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v16.42.3-5.3.3/CercubePlus._16.42.3-5.3.3.ipa",
@@ -12,11 +34,12 @@
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1521.PNG",
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG"
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
       ],
       "size": 101187584,
-      "subtitle": "A modified version of Cercube",
-      "tintColor": "1b9d44",
+      "subtitle": "Cercube with extra features!",
+      "tintColor": "b52234",
       "version": "16.42.3 (5.3.3)",
       "versionDate": "2021-10-T31:00:00-07:00",
       "versionDescription": "The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases\n "
@@ -27,19 +50,20 @@
       "developerName": "Qn_",
       "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v16.43.2-2.1/uYouPlus_16.42.3_2.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
-      "localizedDescription": "Full infomation about uYou+ is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\n Credits: Please keep the Credits if you re-up uYouPlus! \n- MiRO92 for uYou.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, YTUHD and YouPiP.\n- level3tjg for YTNoHoverCards.\n\n Known issues:\n- uYou: all known-issues of uYou are listed here: https://github.com/MiRO92/uYou-for-YouTube/issues. Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!\n- iSponsorBlock: the modified time doesn't show up in the seek bar.\n- YTUHD: Stuttering on 4K videos (sometimes).\n- YouPiP (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the speedup-bug as described here. The bug also happens when you try to play multi-sources of sound at the same time. Enable Legacy PiP is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk.",
+      "localizedDescription": "Full infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\n Credits: Please keep the Credits if you re-up uYouPlus! \n- MiRO92 for uYou.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, YTUHD and YouPiP.\n- level3tjg for YTNoHoverCards.\n\n Known issues:\n- uYou: all known-issues of uYou are listed here: https://github.com/MiRO92/uYou-for-YouTube/issues. Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!\n- iSponsorBlock: the modified time doesn't show up in the seek bar.\n- YTUHD: Stuttering on 4K videos (sometimes).\n- YouPiP (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the speedup-bug as described here. The bug also happens when you try to play multi-sources of sound at the same time. Enable Legacy PiP is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk.",
       "name": "uYouPlus (uYou+)",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG"
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
       ],
       "size": 111886527,
-      "subtitle": "uYouPlus",
-      "tintColor": "4179b5",
+      "subtitle": "A modified version of uYou with some extra features!",
+      "tintColor": "e85567",
       "version": "16.42.3 (2.1)",
-      "versionDate": "2021-06-08T14:00:00-07:00",
+      "versionDate": "2021-10-31T14:00:00-07:00",
       "versionDescription": "The changelog can be found at\n https://github.com/qnblackcat/uYouPlus/releases"
     }
   ],
