@@ -1,6 +1,6 @@
  `https://qnblackcat.github.io/AltStore/apps.json`
 
-[<img src='https://img.shields.io/badge/Add to AltStore-brightgreen.svg' alt='node-v1' />](altstore://source?URL=https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/AltStore.json) [<img src='https://img.shields.io/badge/View the source-blue.svg' alt='node-v1' />](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fqnblackcat%2FMy-AltStore-repo%2Fmain%2FAltStore.json)
+[<img src='https://img.shields.io/badge/Add to AltStore-brightgreen.svg' alt='node-v1' />](altstore://source?URL=https://raw.githubusercontent.com/qnblackcat/AltStore/gh-pages/apps.json) [<img src='https://img.shields.io/badge/View the source-blue.svg' alt='node-v1' />](https://altsource.by.lao.sb/browse/?source=https://raw.githubusercontent.com/qnblackcat/AltStore/gh-pages/apps.json)
 
 -------
 ## _What is this?_
