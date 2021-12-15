@@ -14,5 +14,4 @@ This is my AltStore repo. It contains all of my tweaked apps, such as:
 
 To add the repo to AltStore, simply select **Add to AltStore** at the top of the page. For now, this feature is only available for patrons of AltStore. 
 
-Not a patron of AltStore? You can view the repo and download the IPA by selecting **View the source**.
-
+Not a patron of AltStore? You can view the repo and download the latest IPA by selecting **View the source**.
