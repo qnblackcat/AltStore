@@ -2,6 +2,28 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "Michael Lema & Qn_",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EasA3wfqqL5Kq4ULFN7if24Bp-aEz027FOWQr7ozRJkf4g?download=1",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
+      "localizedDescription": "Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.\n\nFEATURES:\n• No feed ads\n• No story ads\n• Disable marking messages as seen\n• Disable typing status in messages\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• Save Feed videos by long-pressing the video\n\nNOTES:\n• I'm not the developer of Wolf. This is not an official version of Wolf.\n• Michael Lema, the developer of Wolf,  hasn't updated Wolf for a while. Expect some features may not work correctly.\n• Requires iOS 11 and later.",
+      "name": "Facebook Wolf",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/wolf2.jpg",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2698.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2699.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2700.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2701.PNG"
+      ],
+      "size": 152672665,
+      "subtitle": "A tweaked version of \"Wolf\" (made by Michael Lema)",
+      "tintColor": "478EE2",
+      "version": "346.0 (2.1)",
+      "versionDate": "2021-12-18T14:00:00-07:00",
+      "versionDescription": "Initial release!"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "Qn_",
       "downloadURL": "https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/download/v8.92.3-2.8/BHTwitterPlus_8.92.3-2.8.ipa",
