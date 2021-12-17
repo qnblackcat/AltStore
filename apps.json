@@ -24,7 +24,7 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtubecercube",
       "developerName": "Qn_",
       "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v16.46.5-5.3.3/CercubePlus_16.46.5-5.3.3.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
@@ -46,7 +46,7 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtubeuyou",
       "developerName": "Qn_",
       "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v16.45.4-2.1/uYouPlus_16.45.4_2.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
