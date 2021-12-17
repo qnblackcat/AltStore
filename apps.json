@@ -91,6 +91,17 @@
   ],
   "identifier": "com.qn.altstorerepo",
   "name": "Qn_'s AltStore Repo",
-  "news": [],
+  "news": [
+    {
+      "appID": "com.facebook.Facebook",
+      "caption": "Get the latest version of Facebook with \"Wolf for Facebook\" included now!",
+      "date": "2021-12-18",
+      "identifier": "Wolf-available",
+      "imageURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/wolf2.jpg",
+      "notify": false,
+      "tintColor": "478EE2",
+      "title": "Facebook Wolf is now available"
+    }
+  ],
   "userInfo": {}
 }
