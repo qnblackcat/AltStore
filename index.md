@@ -7,9 +7,9 @@
 
 This is my AltStore repo. It contains all of my tweaked apps, such as:
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus/)
-- [CercubePlus](https://github.com/qnblackcat/CercubePlus/)
 - [BHTwitterPlus](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/) 
 - **Facebook Wolf**
+- CercubePlus and uYouPlus have the same bundle ID. Unfortunately, AltStore can not handle two applications that have the same bundle ID. I have no other choice except to remove CercubePlus. You can get the latest version of CercubePlus [here](https://github.com/qnblackcat/CercubePlus).
 
 To add the repo to AltStore, simply select **Add to AltStore** at the top of the page. For now, this feature is only available for patrons of AltStore. 
 
