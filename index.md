@@ -5,12 +5,14 @@
 -------
 ## _What is this?_
 
-This is my AltStore repo. It contains all of my tweaked apps, such as:
+:point_right: This is my AltStore repo :package:. It contains all of my tweaked apps, such as:
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus/)
+- [CercubePlus](https://github.com/qnblackcat/CercubePlus/)
 - [BHTwitterPlus](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/) 
 - **Facebook Wolf**
-- CercubePlus and uYouPlus have the same bundle ID. Unfortunately, AltStore can not handle two applications that have the same bundle ID. I have no other choice except to remove CercubePlus. You can get the latest version of CercubePlus [here](https://github.com/qnblackcat/CercubePlus).
 
-To add the repo to AltStore, simply select **Add to AltStore** at the top of the page. For now, this feature is only available for patrons of AltStore. 
+_Unfortunately, AltStore can not handle two applications that have the same bundle ID (uYou+ and Cercube+). I have no other choice except to modify CercubePlus's bundle ID. As a result, you won't be able to install CercubePlus directly through AltStore. You still can download the IPA like normal though._
 
-Not a patron of AltStore? You can view the repo and download the latest IPA by selecting **View the source**.
+:point_right: To add the repo to AltStore, simply select **Add to AltStore** at the top of the page. For now, this feature is only available for patrons of AltStore.
+
+:point_right: Not a patron of AltStore? You can view the repo and download the latest IPA by selecting **View the source**.
