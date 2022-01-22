@@ -70,7 +70,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Qn_",
-      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v16.46.5-2.1/uYouPlus_16.46.5_2.1.ipa",
+      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.01.4-2.1/uYouPlus_17.01.4_2.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
       "localizedDescription": "Full infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \n- MiRO92 for uYou.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, YTUHD and YouPiP.\n- level3tjg for YTNoHoverCards.\n\nKnown issues:\nuYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n\nuYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
       "name": "uYouPlus (uYou+)",
@@ -84,8 +84,8 @@
       "size": 111886527,
       "subtitle": "A modified version of uYou with some extra features! (requires iOS 13.0 and later)",
       "tintColor": "e85567",
-      "version": "16.46.5",
-      "versionDate": "2021-12-31T14:00:00-07:00",
+      "version": "17.01.4",
+      "versionDate": "2022-01-22T14:00:00-07:00",
       "versionDescription": "The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases"
     }
   ],
@@ -94,13 +94,13 @@
   "news": [
     {
       "appID": "com.google.ios.youtube",
-      "caption": "uYouPlus now included YouTube Dislike Return, which brings back the dislike count.",
-      "date": "2021-12-31",
+      "caption": "uYouPlus has been updated!",
+      "date": "2022-01-22",
       "identifier": "uYou-updated",
       "imageURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2737.PNG",
       "notify": false,
       "tintColor": "e85567",
-      "title": "uYouPlus 16.46.5 (2.1)"
+      "title": "uYouPlus 17.01.4 (2.1)"
     }
   ],
   "userInfo": {}
