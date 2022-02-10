@@ -5,7 +5,7 @@
 -------
 ## _What is this?_
 
-👉 This is my AltStore repo :package:. It contains all of my tweaked apps, such as:
+👉 This is my AltStore repo :package: It contains all of my tweaked apps, such as:
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus/)
 - [CercubePlus](https://github.com/qnblackcat/CercubePlus/)
 - [BHTwitterPlus](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/) 
