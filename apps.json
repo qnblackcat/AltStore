@@ -70,7 +70,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Qn_",
-      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.04.3-2.1/uYouPlus_17.04.3.ipa",
+      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.06.3-2.1/uYouPlus_17.06.3_2.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
       "localizedDescription": "Full infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \n- MiRO92 for uYou.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, YTUHD and YouPiP.\n- level3tjg for YTNoHoverCards.\n\nKnown issues:\nuYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n\nuYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
       "name": "uYouPlus (uYou+)",
@@ -84,9 +84,9 @@
       "size": 111886527,
       "subtitle": "A modified version of uYou with some extra features! (requires iOS 13.0 and later)",
       "tintColor": "e85567",
-      "version": "17.04.3",
-      "versionDate": "2022-02-07T14:00:00-07:00",
-      "versionDescription": "v17.04.3 (2.1): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases"
+      "version": "17.06.3",
+      "versionDate": "2022-02-16T14:00:00-07:00",
+      "versionDescription": "v17.06.3 (2.1): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases"
     }
   ],
   "identifier": "com.qn.altstorerepo",
@@ -95,12 +95,12 @@
     {
       "appID": "com.google.ios.youtube",
       "caption": "uYouPlus has been updated!",
-      "date": "2022-02-07",
+      "date": "2022-02-16",
       "identifier": "uYou-updated",
-      "imageURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2737.PNG",
+      "imageURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2393.PNG",
       "notify": false,
       "tintColor": "e85567",
-      "title": "uYouPlus 17.04.3 (2.1)"
+      "title": "uYouPlus 17.06.3 (2.1)"
     }
   ],
   "userInfo": {}
