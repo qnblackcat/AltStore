@@ -26,7 +26,7 @@
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "Qn_",
-      "downloadURL": "https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/download/v8.97.2-2.9/BHTwitterPlus_8.97.2_2.9.ipa",
+      "downloadURL": "https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/download/v9.2-2.9.2/BHTwitterPlus_9.2-2.9.2.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png",
       "localizedDescription": "Full infomation about BHTwitterPlus (BHTwitter+) is available on my Github: https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/\n\nCredits: \n- BandarHL - for BHTwitter and his solution for Twitter-login (Sideload).\n- haoict - developer of Twitter No Ads.\n- Tanner B - solution for Skip Analytics URL (t.co).\n\nKwown issues:\n- \"Skip Analytic URL\" breaks embed pictures as described here.\n- Analytics link in cards can't be skipped.\n- Download videos may not work if you use appdb. In that case, please change the \"Identity type to use for appdb PRO\" in the \"appdb configuration\" from Auto to Development.\n",
       "name": "BHTwitterPlus (BHTwitter+)",
@@ -40,9 +40,9 @@
       "size": 78643200,
       "subtitle": "The sideloaded version of BHTwitter, made by @BandarHL (requires iOS 13.4+)",
       "tintColor": "3f9de5",
-      "version": "8.97.2",
-      "versionDate": "2022-01-30T14:00:00-07:00",
-      "versionDescription": "v8.97.2 (2.9): The changelog can be found at\nhttps://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/"
+      "version": "9.2",
+      "versionDate": "2022-03-07T14:00:00-07:00",
+      "versionDescription": "v9.2 (2.9.2): The changelog can be found at\nhttps://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/"
     },
     {
       "beta": false,
