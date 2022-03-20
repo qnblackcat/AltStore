@@ -119,7 +119,7 @@
       "identifier": "CercubePlus (Legacy)",
       "imageURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
       "notify": false,
-      "tintColor": "#42d4f5",
+      "tintColor": "42d4f5",
       "title": "CercubePlus (Legacy) for iOS 12",
       "url": "https://github.com/qnblackcat/CercubePlus/tree/iOS-12"
     }
