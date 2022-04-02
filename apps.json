@@ -24,7 +24,7 @@
       "beta": false,
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema & Qn_",
-      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Eag4J29-IshGrXxfNwx-8BUBu3ssirelGKPDZ2hi9wCgiA?download=1",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EW3f04674Y1EjQdEE6Mr7A4Bjtq8QTkEUfFfpQoiW78drA?download=1",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
       "localizedDescription": "Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.\n\nFEATURES:\n• No feed ads\n• No story ads\n• Disable marking messages as seen\n• Disable typing status in messages\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• Save Feed videos by long-pressing the video\n\nNOTES:\n• I'm not the developer of Wolf. This is not an official version of Wolf.\n• Michael Lema, the developer of Wolf,  hasn't updated Wolf for a while. Expect some features may not work correctly.\n• Requires iOS 11 and later.",
       "name": "Facebook Wolf",
@@ -38,9 +38,9 @@
       "size": 152672665,
       "subtitle": "A tweaked version of \"Wolf\" (made by Michael Lema)",
       "tintColor": "478EE2",
-      "version": "350.0",
-      "versionDate": "2022-01-30T14:00:00-07:00",
-      "versionDescription": "v350.0 (2.1): Updated to the latest version of Facebook app"
+      "version": "360.0",
+      "versionDate": "2022-04-02T14:00:00-07:00",
+      "versionDescription": "v360.0 (2.1): Updated to the latest version of Facebook app"
     },
     {
       "beta": false,
