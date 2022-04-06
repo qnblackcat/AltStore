@@ -4,7 +4,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubecercubelegacy",
       "developerName": "Qn_",
-      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EW2_JNxoApFGmb23mPpm9REBFVJ2j7QSK2kfhXjtB6whmA?download=1",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Edmi2kedT8ZHp8nFXksTVrMBIEF1TsTOeDgeUkFmE2PQow?download=1",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
       "localizedDescription": "Unfortunately, AltStore can not handle two (or more) applications that have the same bundle ID (uYouPlus, CercubePlus and CercubePlus (Legacy)). I have no other choice except to modify the bundle ID of CercubePlus (Legacy). Thus, you won't be able to install CercubePlus (Legacy) directly through AltStore. You still can download the IPA like normal though.\n\nFull infomation about CercubePlus (Legacy) is available on my Github: https://github.com/qnblackcat/CercubePlus/tree/iOS-12/\n\nCredits: Please keep the Credits if you re-up CercubePlus (Legacy)! \n- Alfhaily for Cercube.\n- Galactic-Dev for the original iSponsorBlockLegacy, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, and Return YouTube Dislike.\n- level3tjg for YTNoHoverCards.\n\nKnown issues:\n- YTUHD is removed because most iOS 12 devices don't support VP9 codec (Hardware restriction).\n- iOS 12 doesn't have the built-in Picture in Picture mode like iOS 14+, so YouPiP must be removed as well.\n- Hide Cast button may not work.\n- YouPiP (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the speedup-bug as described here. The bug also happens when you try to play multi-sources of sound at the same time. Enable Legacy PiP is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk!",
       "name": "CercubePlus (Legacy)",
@@ -16,9 +16,9 @@
       "size": 112617062,
       "subtitle": "CercubePlus but for iOS 12",
       "tintColor": "e22e2e",
-      "version": "17.10.2",
-      "versionDate": "2022-03-20T14:00:00-07:00",
-      "versionDescription": "v17.10.2 (5.3.7): The information can be found at\nhttps://github.com/qnblackcat/CercubePlus/tree/iOS-12"
+      "version": "17.13.3",
+      "versionDate": "2022-04-06T14:00:00-07:00",
+      "versionDescription": "v17.13.3 (5.3.9): The information can be found at\nhttps://github.com/qnblackcat/CercubePlus/tree/iOS-12"
     },
     {
       "beta": false,
@@ -68,7 +68,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubecercube",
       "developerName": "Qn_",
-      "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.12.5-5.3.7/CercubePlus_17.12.5_5.3.7.ipa",
+      "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.13.3-5.3.9/CercubePlus_17.13.3_5.3.9.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
       "localizedDescription": "Unfortunately, AltStore can not handle two applications that have the same bundle ID (uYou+ and Cercube+). I have no other choice except to modify CercubePlus's bundle ID. As a result, you won't be able to install CercubePlus directly through AltStore. You still can download the IPA like normal though.\n\nFull infomation about CercubePlus (Cercube+) is available on my Github: https://github.com/qnblackcat/CercubePlus/\n\nCredits: Please keep the Credits if you re-up CercubePlus! \n- Alfhaily for Cercube.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, YTUHD, YouPiP and Return YouTube Dislike.\n- level3tjg for YTNoHoverCards.\n\nKnown issues:\n- Hide Cast button may not work.\n- YTUHD: Stuttering on 2K/4K videos.\n- YouPiP (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the speedup-bug as described here. The bug also happens when you try to play multi-sources of sound at the same time. Enable Legacy PiP is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk!",
       "name": "CercubePlus (Cercube+)",
@@ -82,9 +82,9 @@
       "size": 101187584,
       "subtitle": "Cercube with extra features! (requires iOS 13.0 and later)",
       "tintColor": "e22a41",
-      "version": "17.12.5",
-      "versionDate": "2022-03-31T14:00:00-07:00",
-      "versionDescription": "v17.12.5 (5.3.7): The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases/latest"
+      "version": "17.13.3",
+      "versionDate": "2022-04-06T14:00:00-07:00",
+      "versionDescription": "v17.13.3 (5.3.9): The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases/latest"
     },
     {
       "beta": false,
@@ -111,18 +111,6 @@
   ],
   "identifier": "com.qn.altstorerepo",
   "name": "Qn_'s AltStore Repo",
-  "news": [
-    {
-      "appID": "com.google.ios.youtubecercubelegacy",
-      "caption": "CercubePlus now works on iOS 12",
-      "date": "2022-03-20",
-      "identifier": "CercubePlus (Legacy)",
-      "imageURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
-      "notify": false,
-      "tintColor": "42d4f5",
-      "title": "CercubePlus (Legacy) for iOS 12",
-      "url": "https://github.com/qnblackcat/CercubePlus/tree/iOS-12"
-    }
-  ],
+  "news": [],
   "userInfo": {}
 }
