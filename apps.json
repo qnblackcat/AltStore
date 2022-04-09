@@ -2,6 +2,27 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Alfhaily & Qn_",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/ERwRgrjKwZ1NtKiSNpQIgJ8BSBbOgrUcFqVrTDqc5cJpHw?download=1",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+      "localizedDescription": "Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.",
+      "name": "Rocket for Instagram",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 91750400,
+      "subtitle": "Save posts and view stories anonymously and do much more",
+      "tintColor": "c72a96",
+      "version": "228.0",
+      "versionDate": "2022-04-09T14:00:00-07:00",
+      "versionDescription": "Fixed startup crash on Instagram v228.0."
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.google.ios.youtubecercubelegacy",
       "developerName": "Qn_",
       "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Edmi2kedT8ZHp8nFXksTVrMBIEF1TsTOeDgeUkFmE2PQow?download=1",
@@ -111,6 +132,18 @@
   ],
   "identifier": "com.qn.altstorerepo",
   "name": "Qn_'s AltStore Repo",
-  "news": [],
+  "news": [
+    {
+      "appID": "com.burbn.instagram",
+      "caption": "Get the latest version of Rocket for Instagram!",
+      "date": "2022-04-08",
+      "identifier": "rocket-now-available",
+      "imageURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+      "notify": false,
+      "tintColor": "c72a96",
+      "title": "Rocket for Instagram is now available!",
+      "url": ""
+    }
+  ],
   "userInfo": {}
 }
