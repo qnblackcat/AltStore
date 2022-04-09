@@ -9,8 +9,9 @@
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus/)
 - [CercubePlus](https://github.com/qnblackcat/CercubePlus/)
 - [CercubePlus (Legacy)](https://github.com/qnblackcat/CercubePlus/tree/iOS-12)
-- [BHTwitterPlus](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/) 
 - **Facebook Wolf**
+- **Rocket for Instagram**
+- [BHTwitterPlus](https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/) (Deprecated)
 
 _Unfortunately, AltStore can not handle two (or more) applications that have the same bundle ID (uYou+, Cercube+ and Cercube+ (Legacy)). I have no other choice except to modify CercubePlus's bundle ID. As a result, you won't be able to install CercubePlus directly through AltStore. You still can download the IPA like normal though._
 
