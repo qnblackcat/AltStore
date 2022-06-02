@@ -4,7 +4,7 @@
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Alfhaily & Qn_",
-      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EROHQfY3DCZFhqH5Ia5sGc8BsGTnegzouYDYOadDjfvY-g?download=1",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EQ8m8qwTYgJIjYWFCiTJhOoBjQqF5uqXuKTSBycyBTk7bw?download=1",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
       "localizedDescription": "Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
       "name": "Rocket for Instagram",
@@ -18,8 +18,8 @@
       "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 12.4 and later.",
       "tintColor": "c72a96",
       "version": "237.0",
-      "versionDate": "2022-06-01T14:00:00-07:00",
-      "versionDescription": "Changelog:\n- Instagram v237.0. \n- Bump version."
+      "versionDate": "2022-06-02T14:00:00-07:00",
+      "versionDescription": "Changelog v237.0-3.7.43:\n- Rocket for Instagram v3.7.43: Added compatibility for Instagram v237.0."
     },
     {
       "beta": false,
