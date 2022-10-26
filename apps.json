@@ -2,6 +2,25 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "level3tjg",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EdiDuLt3Cz9IvmsYLuIDbvQBZl5V3Te6mqPppQqZ4s3F2Q?download=1",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
+      "localizedDescription": "- RedditFilter & RedditSideloadFix are made by u/level3tjg!!!\n- Filter out unwanted content from your Reddit feed. Configurable from in-app settings.\n- Requires iOS 14.0 or later.\n- Source code: \nhttps://github.com/level3tjg/RedditFilter\nhttps://github.com/level3tjg/RedditSideloadFix",
+      "name": "RedditFilter",
+      "screenshotURLs": [
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/1.PNG",
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG"
+      ],
+      "size": 142121615,
+      "subtitle": "Filter out unwanted content from your Reddit feed. Configurable from in-app settings",
+      "tintColor": "ff4600",
+      "version": "2022.39.0",
+      "versionDate": "2022-10-26T12:00:00-01:00",
+      "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Alfhaily & Qn_",
       "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EYk6S-C1BENEsVwsZu1VmO0B8zDsi-OIOI7q_4XwtJynkA?download=1",
@@ -91,7 +110,7 @@
       "developerName": "Alfhaily & Qn_",
       "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.41.2-5.3.11/CercubePlus_17.41.2_5.3.11.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
-      "localizedDescription": "Unfortunately, AltStore can not handle two applications that have the same bundle ID (uYou+ and Cercube+). I have no other choice except to modify CercubePlus's bundle ID. As a result, you won't be able to install CercubePlus directly through AltStore. You still can download the IPA like normal though.\n\nFull infomation about CercubePlus (Cercube+) is available on my Github: https://github.com/qnblackcat/CercubePlus/\n\nCredits: Please keep the Credits if you re-up CercubePlus! \n- Alfhaily for Cercube.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, YTUHD, YouPiP and Return YouTube Dislike.\n- level3tjg for YTNoHoverCards.\n\nKnown issues:\n- Hide Cast button may not work.\n- YTUHD: Stuttering on 2K/4K videos.\n- YouPiP (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the speedup-bug as described here. The bug also happens when you try to play multi-sources of sound at the same time. Enable Legacy PiP is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk!",
+      "localizedDescription": "Unfortunately, AltStore can not handle two applications that have the same bundle ID (uYou+ and Cercube+). I have no other choice except to modify CercubePlus's bundle ID. As a result, you won't be able to install CercubePlus directly through AltStore. You still can download the IPA like normal though.\n\nCredits: Please keep the Credits if you re-up CercubePlus! \n- https://github.com/qnblackcat/CercubePlus#credits\n\nFull infomation about CercubePlus (Cercube+) is available on my Github: https://github.com/qnblackcat/CercubePlus/\n\n",
       "name": "CercubePlus (Cercube+)",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1521.PNG",
@@ -113,7 +132,7 @@
       "developerName": "MiRO92 & Qn_",
       "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.41.2-2.1/uYouPlus_17.41.2_2.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
-      "localizedDescription": "uYouPlus is a modified version of uYou with some extra features! (requires iOS 13.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \n- MiRO92 for uYou.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for Return YouTube Dislike, YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, YTUHD and YouPiP.\n- level3tjg for YTNoHoverCards.\n\nAttention:\n- If the app crashes when opening uYou's settings, try the version based on YouTube v16.42.3 on my Github.\n- Workaround for missing the video's timestamp in Watch History/Playlist: Go to uYou's settings > Other Settings and Disable 'Remove YouTube Ads'.\n- YTUHD is not stable atm. You might encounter suttering, heat, battery drain...\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
+      "localizedDescription": "uYouPlus is a modified version of uYou with some extra features! (requires iOS 13.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
       "name": "uYouPlus (uYou+)",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
@@ -133,38 +152,15 @@
   "identifier": "com.qn.altstorerepo",
   "name": "Qn_'s AltStore Repo",
   "news": [
-     {
-      "appID": "com.google.ios.youtube",
-      "caption": "Finally, OLED dark mode is here!",
-      "date": "2022-04-19",
-      "identifier": "uYouPlus-update",
-      "imageURL": "https://i.imgur.com/wH9hC7j.jpg",
-      "notify": false,
-      "tintColor": "e85567",
-      "title": "New update of uYouPlus with new features",
-      "url": "https://github.com/qnblackcat/uYouPlus/releases/latest"
-    },
     {
-      "appID": "com.google.ios.youtubecercubelegacy",
-      "caption": "OLED dark mode for YouTube",
-      "date": "2022-04-17",
-      "identifier": "OLED-dark-mode",
-      "imageURL": "https://user-images.githubusercontent.com/52943116/163700547-eee32c09-a6fb-4638-a047-5da2695affa9.JPG",
+      "appID": "com.reddit.Reddit",
+      "caption": "Finally, Reddit can be sideloaded with the ability to block ads and more...",
+      "date": "2022-10-26",
+      "identifier": "reddit-now-available",
+      "imageURL": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG",
       "notify": false,
-      "tintColor": "e22e2e",
-      "title": "CercubePlus now has OLED dark mode!",
-      "url": "https://github.com/qnblackcat/CercubePlus"
-    },
-    {
-      "appID": "com.burbn.instagram",
-      "caption": "Get the latest version of Rocket for Instagram!",
-      "date": "2022-04-08",
-      "identifier": "rocket-now-available",
-      "imageURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-      "notify": false,
-      "tintColor": "c72a96",
-      "title": "Rocket for Instagram is now available!",
-      "url": "https://github.com/qnblackcat/IGSideloadFix"
+      "tintColor": "ff4600",
+      "title": "RedditFilter is out!"
     }
   ],
   "userInfo": {}
